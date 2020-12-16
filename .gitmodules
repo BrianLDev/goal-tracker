@@ -1,0 +1,6 @@
+[submodule "goal-tracker-mobile"]
+	path = goal-tracker-mobile
+	url = git@github.com:BrianLDev/goal-tracker-mobile.git
+[submodule "goal-tracker-server"]
+	path = goal-tracker-server
+	url = git@github.com:BrianLDev/goal-tracker-server.git
